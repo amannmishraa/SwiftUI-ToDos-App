@@ -10,9 +10,18 @@ import SwiftData
 
 @main
 struct ToDosApp: App {
+    @StateObject var appManager = AppManager()
     var body: some Scene {
         WindowGroup {
-            HomeView()
+            Group{
+                switch appManager.currentView{
+                case .lockScreen:
+                    LockView()
+                case .homeScreen:
+                    HomeView()
+                }
+            }
+            .environmentObject(appManager)
         }
         .modelContainer(for: ReminderList.self)
     }
