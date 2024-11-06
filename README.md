@@ -1,12 +1,9 @@
 # Todo List App with SwiftData in SwiftUI
-![The Screen is Locked!](https://github.com/user-attachments/assets/933863e0-0839-4684-a0c7-919291b46ea8)
-![Face ID](https://github.com/user-attachments/assets/83d3c51c-696d-4ae4-9195-a3f1b28d2f98)
-**If not recognised**
-![Face Not Recognised](https://github.com/user-attachments/assets/453b047d-628e-4fe2-ae11-a881b1f09e11)
-**If recognised**
-- HomeScreen
-![Reminders](https://github.com/user-attachments/assets/1746a7ec-3ac8-4287-93ec-4e0a2e127ec1)
 ![Shots](https://github.com/SwiftieDev/SwiftUI-ToDos-App/assets/156214801/b27d1f79-f65e-4939-87cb-b0f2b44231e7)
+**Updated features**
+![Untitled design](https://github.com/user-attachments/assets/1099ba23-8360-41fd-b894-d77df6d610ac)
+
+
 ## Overview
 The Todo List App is a powerful task management tool built for iOS 17 using SwiftUI and SwiftData. This app empowers users to efficiently organize their tasks, set priorities, and track their progress effortlessly. With a sleek and intuitive user interface, seamless data synchronization, and robust functionality, the Todo List App simplifies task management and enhances productivity for users on iOS 17.
 
